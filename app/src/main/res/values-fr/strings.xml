@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">temperaturacambiar</string>
+        <string name="Celcius">Celcius</string>
+        <string name="Fahrenheit">Fahrenheit</string>
+</resources>
